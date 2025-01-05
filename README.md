@@ -2,10 +2,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ahdan24&color=blue)
 
-# Hi there, I'm Ahdan24 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ahdan24&color=blue)
-
 ## About Me
 I am a passionate developer with a keen interest in web development. I love working on innovative projects and continuously learning new technologies.
 
