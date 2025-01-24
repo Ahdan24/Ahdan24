@@ -1,4 +1,4 @@
-# Hi there, I'm Ahdan24 👋
+# Hi there, I'm Ahdan 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ahdan24&color=blue)
 
