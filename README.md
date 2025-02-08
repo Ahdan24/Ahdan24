@@ -1,41 +1,48 @@
-# Hi there, I'm Ahdan 👋
+# Hi there, I'm Ahdan24 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ahdan24&color=blue)
+Welcome to my GitHub profile! Here's a little about me:
 
-## About Me
-I am a passionate developer with a keen interest in web development. I love working on innovative projects and continuously learning new technologies.
+## 🚀 About Me
+I am a passionate developer with a knack for solving problems and creating innovative solutions. I enjoy working on a variety of projects, from web development to data analysis and everything in between.
 
-- 🔭 **Currently working on**: [Your current project or area of focus]
-- 🌱 **Learning**: [Technologies or skills you are currently learning]
-- 👯 **Looking to collaborate on**: [Projects or types of projects you are open to collaborating on]
-- 🤔 **Seeking help with**: [Areas where you need help or mentorship]
-- 💬 **Ask me about**: [Topics you are knowledgeable about and can help others with]
-- 📫 **Reach me at**: [Your email address or other contact methods]
-- ⚡ **Fun fact**: [A fun fact about yourself]
+## 🔧 Technologies & Tools
+- **Languages:** JavaScript, Typescript, Python, Java, C++
+- **Web Development:** HTML, CSS, React, Node.js, Express
+- **Databases:** MongoDB, MySQL, PostgreSQL, Perisma
+- **Tools:** Git, Docker
 
-## Skills and Technologies
-### Languages
-- [List of programming languages you are proficient in]
+## 📈 My Stats
+![Ahdan24's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ahdan24&show_icons=true&theme=radical)
 
-### Frameworks and Libraries
-- [List of frameworks and libraries you use]
+## 🔭 I’m currently working on
+- Improving my skills in cloud computing and DevOps.
+- Contributing to open-source projects.
+- Building a personal project management tool.
 
-### Tools and Platforms
-- [List of tools and platforms you are familiar with]
+## 🌱 I’m currently learning
+- Advanced React and TypeScript
+- Cloud services with AWS and Azure
 
-## Projects
-Here are some of my notable projects:
+## 👯 I’m looking to collaborate on
+- Open-source projects
+- Innovative web applications
 
-- **[Project Name](link to project)** - Brief description of the project
-- **[Project Name](link to project)** - Brief description of the project
-- **[Project Name](link to project)** - Brief description of the project
+## 🤔 I’m looking for help with
+- Scaling web applications
+- Best practices in DevOps
 
-## GitHub Stats
-![Ahdan24's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahdan24&show_icons=true&theme=radical)
+## 💬 Ask me about
+- Web development
+- Data structures and algorithms
+- Software design patterns
 
-## Connect with Me
-- [LinkedIn](link to your LinkedIn profile)
-- [Twitter](link to your Twitter profile)
-- [Personal Website/Blog](link to your website or blog)
+## 📫 How to reach me
+- **Email:** ahdan24@Gmail.com
+- **LinkedIn:** [Ahdan24](https://www.linkedin.com/in/muhammad-ahdan-aufa-24a2241b6/)
 
-Thank you for visiting my profile! Feel free to reach out if you'd like to connect or collaborate on a project. 🚀
+## ⚡ Fun fact
+I love hiking and exploring new trails in my free time.
+
+---
+
+Thanks for visiting my profile! Have a great day! 😊
